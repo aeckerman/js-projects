@@ -1,0 +1,20 @@
+* {
+	font-family: 'Oswald', sans-serif;
+}
+
+h1#title {
+	color: #fff;
+	display: inline-block;
+	padding: 5px;
+	background-color: #3498db;
+}
+
+li {
+	text-decoration: none;
+	color: #3498db;
+	margin-right: auto;
+	margin-left: auto;
+}
+li:hover {
+	text-decoration: underline;
+}
